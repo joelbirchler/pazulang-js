@@ -1,0 +1,22 @@
+{
+  "name": "pazulang",
+  "version": "0.0.0",
+  "description": "A toy language.",
+  "main": "pazu.js",
+  "dependencies": {
+    "cli-color": "~0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelbirchler/pazulang.git"
+  },
+  "author": "Joel Birchler",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/joelbirchler/pazulang/issues"
+  }
+}
